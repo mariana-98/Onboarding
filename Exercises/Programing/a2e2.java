@@ -26,4 +26,5 @@ class Main{
       dep  = sc.nectln();
       System.out.print("Salary: ");
       salary = sc.nectln();
+      }
 }
